@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OOPWorkshop1-Backend/OOPWorkshop1-Backend.csproj" />
+  <Project Path="OOPWorkshop1-Frontend/OOPWorkshop1-Frontend.csproj" />
+</Solution>
